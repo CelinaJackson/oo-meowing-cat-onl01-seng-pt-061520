@@ -4,4 +4,3 @@ end
 
 sloan = Cat.new
 sloan.name = "Sloan"
-sloan.meow = "meow!"
